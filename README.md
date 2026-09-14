@@ -32,7 +32,7 @@ Copia esta carpeta dentro de tu directorio de skills de Claude Code
 (`.claude/skills/` o `.agents/skills/`, según tu configuración):
 
 ```bash
-git clone https://github.com/daaniidev/pensamiento-mentalidad-estrategica.git
+git clone https://github.com/daaniidev/strategic-thinking-skill.git
 ```
 
 Claude Code detectará automáticamente `SKILL.md` y activará la skill cuando
